@@ -1,5 +1,5 @@
 # beamforces
-Small programm that calculates forces on a beam
+Small UI that calculates forces on a beam and displays it accordingly
 
 The programm is really not that long so its almost self explainatory.
 I will try to add and improve it though as its a very basic yet important calculation.
